@@ -1,5 +1,5 @@
 Nombre base de datos: ELTRIDENTE.DBF
-Nombre base de archivo Pyton (consola): Eltridente.py
+Nombre base de archivo Python (consola): Eltridente.py
 Prueba de funcionalidad: Funcionalidad.py 
 Prueba de Integracion: Integracion.py
 Prueba de Unitarias: Teste_Eltridente.py
